@@ -1,1 +1,3 @@
-console.log('test');
+include('apps.routers.router');
+
+new MtsApp.Routers.Router;
