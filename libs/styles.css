@@ -1,0 +1,26 @@
+.container {
+	margin-top: 20px;
+}
+
+.panel {
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    -webkit-box-shadow: 0 8px 4px -6px #eee;
+    -moz-box-shadow: 0 8px 4px -6px #eee;
+    box-shadow: 0 8px 4px -6px #eee;
+}
+
+.panel .header {
+    padding: 5px;
+    background: #ddd;
+    background: linear-gradient(to bottom, #eee, #ddd);
+    font-size: 12px;
+    font-weight: bold;
+    color: #666;
+}
+
+.panel .content {
+    padding: 5px;
+    background: #fff;
+    color: #666;
+}
